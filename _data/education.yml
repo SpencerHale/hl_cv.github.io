@@ -2,26 +2,26 @@
 - layout: left
   # name:
   dates: 9/2017 - 6/2021
-  # qualification:
-  quote: >
-    Mathematical Statistics(Data Mining)
+  qualification: Mathematical Statistics(Data Mining)
+  # quote: >
+    # Mathematical Statistics(Data Mining)
   description: | # this will include new lines to allow paragraphs
     Renmin University of China(Master Degree)
 # Education Template
 - layout: left
   # name:
   dates: 9/2011 - 6/2015
-  # qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Business English
+  qualification: Business English
+  # quote: >
+    # Business English
   description: | # this will include new lines to allow paragraphs
     Lijiang College of Guangxi Normal University(1st Degree)
 # Education Template
 - layout: left
   # name:
   dates: 9/2013 - 6/2015
-  # qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Economics
+  qualification: Economics
+  # quote: >
+    # Economics
   description: | # this will include new lines to allow paragraphs
     Economics&Management College of Guangxi Normal University(2nd Degree)

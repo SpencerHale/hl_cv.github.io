@@ -6,8 +6,12 @@
   # quote: >
     # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    1.Deploy hadoop; design warehouse with synchronisation strategy according to dimension mode; |
-    2.HDFA+MR for distributed storage transport services; flume+kafka for log collection; |
-    3.Hive+sqoop+mysql for data migration and off-line analysis; spark streaming for real time index; |
-    4.Zookeeper+ambari for cluster coordination and monitoring; |
+    1.Deploy hadoop; design warehouse with synchronisation strategy according to dimension mode;
+  description: |
+    2.HDFA+MR for distributed storage transport services; flume+kafka for log collection;
+  description: |
+    3.Hive+sqoop+mysql for data migration and off-line analysis; spark streaming for real time index;
+  description: |
+    4.Zookeeper+ambari for cluster coordination and monitoring;
+  description: |
     5.Spark MLlib for user behavior and portrait; visualize data report
