@@ -1,40 +1,40 @@
 # Experience template
 - layout: left
-  company: GZ Claude Network Technology Co., Ltd.
+  # company:
   # link: Link to company (optional)
   job_title: Data Engineer
   dates: 8/2017 - present
-  # quote: >
-   # Short description of the company (optional)
+  quote: >
+   GZ Claude Network Technology Co., Ltd.
   description: | # this will include new lines to allow paragraphs
     Statistic analysis and report development for BI; crawl data resources, data clean-up and training, ETL and data warehouse operation and maintenance; testing, permission administration and technical support; satisfy and follow requirement; solve exceptions and faults; report malfunctions for upgrade.
 # Experience template
 - layout: left
-  company: Local Taxation Bureau/Fesco(project outsourcing)
+  # company:
   # link: Link to company (optional)
   job_title: Operation&Maintenance Engineer
   dates: 7/2016 - 7/2017
-  # quote: >
-   # Short description of the company (optional)
+  quote: >
+   Local Taxation Bureau/Fesco(project outsourcing)
   description: | # this will include new lines to allow paragraphs
     Operation and maintenance towards social security system and Oracle database; requirement documentation; statistic analysis and develop SQL scripts; optimize efficiency of data input and output.
 # Experience template
 - layout: left
-  company: IBM/Wistron ITS(human outsourcing)
+  # company:
   # link: Link to company (optional)
   job_title: Data Analyst(Asset Management)
   dates: 6/2015 - 7/2016
-  # quote: >
-   # Short description of the company (optional)
+  quote: >
+   IBM/Wistron ITS(human outsourcing)
   description: | # this will include new lines to allow paragraphs
     Collect parameters of HW&SW; preprocess data with functions; develop VBA and macro with licensing algorithm model; report reconciliation; reduce audit risks for clients.
 # Experience template
 - layout: left
-  company: SZ Research Institute of Wuhan University(Multi Media Development Center)
+  # company:
   # link: Link to company (optional)
   job_title: Android App Assistant Development Engineer	(Intern)
   dates: 6/2014 - 6/2015
-  # quote: >
-   # Short description of the company (optional)
+  quote: >
+   SZ Research Institute of Wuhan University(Multi Media Development Center)
   description: | # this will include new lines to allow paragraphs
     Analysis, prototyping, development towards function needs of android app projects as teamwork; write requirement document; design MySQL DB and API; code layout, JSON data parse and test.
