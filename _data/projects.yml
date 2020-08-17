@@ -1,9 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Data Management System
+  # link: https://github.com/SpencerHale/w2v
+  # github: https://github.com/SpencerHale
+  # quote: >
+    # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    1.Deploy hadoop; design warehouse with synchronisation strategy according to dimension mode;
+    2.HDFA+MR for distributed storage transport services; flume+kafka for log collection;
+    3.Hive+sqoop+mysql for data migration and off-line analysis; spark streaming for real time index;
+    4.Zookeeper+ambari for cluster coordination and monitoring;
+    5.Spark MLlib for user behavior and portrait; visualize data report

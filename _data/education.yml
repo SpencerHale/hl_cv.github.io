@@ -1,9 +1,27 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Mathematical Statistics(Data Mining)
+  dates: 9/2017 - 6/2021
+  # qualification:
+  # quote: >
+    # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Renmin University of China(Master Degree)
+# Education Template
+- layout: left
+  name: Business English
+  dates: 9/2011 - 6/2015
+  # qualification: Qualifications (eg. BA Performing Arts)
+  # quote: >
+    # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Lijiang College of Guangxi Normal University(1st Degree)
+# Education Template
+- layout: left
+  name: Economics
+  dates: 9/2013 - 6/2015
+  # qualification: Qualifications (eg. BA Performing Arts)
+  # quote: >
+    # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Economics&Management College of Guangxi Normal University(2nd Degree)
